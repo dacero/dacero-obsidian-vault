@@ -22,8 +22,8 @@ created: 2024-04-28
 
 ### 2024-04-28@19:05 - Creating the repo in GitHub
 
-- [ ] Create the repo in GitHub
-	- 
+- [x] Create the repo in GitHub
+	- Already created at 19:11 
 
 ### 2024-04-28@12:07 - Creating a frame for the notes use case
 

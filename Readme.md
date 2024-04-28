@@ -1,3 +1,10 @@
+## What is this?
+
+It's a template Obsidian vault structure that replicates how I use this tool for:
+
+- Personal project management
+- Note taking
+
 ## Root folder structure 
 
 - `0-inbox`: default location for new notes.
