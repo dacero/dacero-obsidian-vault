@@ -1,8 +1,8 @@
 ---
 category:
-  - "[[Captures]]"
+  - "[[Book Annotations]]"
 created: {{date}}
-source: 
+title: 
 author: 
 topics:
 ---

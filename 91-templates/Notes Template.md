@@ -1,7 +1,6 @@
 ---
 category:
   - "[[Notes]]"
-created:
-  "{ date }": 
+created: {{date}}
 topics:
 ---

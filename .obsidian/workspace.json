@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "0-inbox/2024-04-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "0-inbox/2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "0-inbox/2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +186,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "0-inbox/2024-04-30.md"
               }
+            }
+          },
+          {
+            "id": "d13eb3c9cebdc1d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -209,19 +217,26 @@
   },
   "active": "c0e87adc3e3fec78",
   "lastOpenFiles": [
-    "1-projects/obsidian-vault/obsidian-vault.md",
+    "90-categories/Projects.md",
+    "90-categories/Notes.md",
+    "90-categories/Captures.md",
+    "0-inbox/2024-04-30.md",
+    "0-inbox",
+    "90-categories/Posts.md",
     "Readme.md",
+    "91-templates/Video Annotations Template.md",
+    "91-templates/Post Template.md",
+    "91-templates/Daily Template.md",
+    "91-templates/Book Annotations Template.md",
+    "1-projects/obsidian-vault/obsidian-vault.md",
     "0-inbox/2024-04-28.md",
     "3-references/Note Taking.md",
     "2-notes/Evergreen notes.md",
     "2-notes/This is a test note about note taking.md",
     "3-references",
     "91-templates/Topics Template.md",
-    "90-categories/Captures.md",
     "91-templates/Notes Template.md",
     "91-templates/Capture Template.md",
-    "90-categories/Notes.md",
-    "90-categories/Projects.md",
     "0-inbox/This is a sample note.md",
     "90-categories",
     "92-assets/projects screenshot.png",

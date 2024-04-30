@@ -1,9 +1,9 @@
 ---
 category:
-  - "[[Projects]]"
+  - "[[Posts]]"
 status: 🟢
 created:
-  "{ date }":
+  "{ date }": 
 ---
 ## 🎯 Target
 *Tangible objective. Be specific. Set a date.*
@@ -17,6 +17,8 @@ created:
 ## 🌱 Journal
 *Watch it grow*
 
-### {{date}} {{time}} - Project creation
+### {{date}} {{time}} - Post creation
 
-- Project was created
+- Post was created
+- [ ] Create a new branch in github for the post
+- [ ] Create a new folder for the post
