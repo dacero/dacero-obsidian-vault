@@ -18,5 +18,4 @@ created:
 *Watch it grow*
 
 ### {{date}} {{time}} - Project creation
-
 - Project was created
