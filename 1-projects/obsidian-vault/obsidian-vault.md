@@ -1,12 +1,18 @@
 ---
 category:
   - "[[Projects]]"
-status:
-  - 🟢
+status: 🟢
 created: 2024-04-28
 ---
+## 📫 Inbox
+```dataview
+TASK
+WHERE !completed AND
+ contains(tags, "#inbox") AND
+ contains(outlinks, this.file.link)
+  ```
+ 
 ## 🎯 Target
-
 - Create a reusable template for an obsidian vault that others can use.
 - Document the methodology supported by this vault.
 - Publish the templated as a publi repo.
@@ -19,6 +25,23 @@ created: 2024-04-28
 
 
 ## 🌱 Journal
+
+### 2024-05-19@12:27 -  Anchor Categories
+- **Anchor categories** are those special categories that you come back recurrently.
+- These are my anchor categories:
+	- [[Projects]]
+	- [[People]]
+	- Areas of responsibility that have a dedicated recurrent governance (e.g. finance)
+	- Daily Notes (I know that I will open one on a daily basis)
+- You must be able to **send a message** to an anchor category from anywhere in your vault (e.g. you're in a meeting, a new information comes up that's relevant to a project, you send a message to the project.)
+- Because you know that you will open the anchor category in the future, a message sent to them will be read.
+- When you can trust that such message will be read, it really stays out of your mind.
+- **Sending a message** to an Anchor Category is done by:
+	- Creating a task
+	- With the #inbox tag
+	- And the reference to the Anchor point in it.
+- **Reading a message** is done through the **Inbox**:
+	- A special query on top of the page based on the [[Inbox Query Template]]
 
 ### 2024-04-28@19:05 - Creating the repo in GitHub
 

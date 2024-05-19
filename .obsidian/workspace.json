@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6141100d4b9b2369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/obsidian-vault/obsidian-vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,11 +215,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7550b426cb744238",
+  "active": "6141100d4b9b2369",
   "lastOpenFiles": [
-    "91-templates/Project Template.md",
-    "0-inbox/2024-05-19.md",
     "0-inbox/2024-04-30.md",
+    "1-projects/obsidian-vault/obsidian-vault.md",
+    "2-notes/Meeting about the obsidian project.md",
+    "91-templates/Daily Template.md",
+    "91-templates/Inbox Query Template.md",
+    "0-inbox/2024-05-19.md",
+    "3-references/Note Taking.md",
+    "91-templates/Project Template.md",
     "90-categories/Projects.md",
     "90-categories/Notes.md",
     "90-categories/Captures.md",
@@ -216,11 +233,8 @@
     "Readme.md",
     "91-templates/Video Annotations Template.md",
     "91-templates/Post Template.md",
-    "91-templates/Daily Template.md",
     "91-templates/Book Annotations Template.md",
-    "1-projects/obsidian-vault/obsidian-vault.md",
     "0-inbox/2024-04-28.md",
-    "3-references/Note Taking.md",
     "2-notes/Evergreen notes.md",
     "2-notes/This is a test note about note taking.md",
     "3-references",

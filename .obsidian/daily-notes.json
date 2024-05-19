@@ -1,5 +1,5 @@
 {
   "folder": "0-inbox",
-  "autorun": true,
+  "autorun": false,
   "template": "91-templates/Daily Template"
 }

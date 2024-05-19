@@ -5,7 +5,6 @@ status: 🟢
 created: {{date}}
 next-action:
 ---
-
 ## 🎯 Target
 *Tangible objective. Be specific. Set a date.*
 
